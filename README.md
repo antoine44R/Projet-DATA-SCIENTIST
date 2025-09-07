@@ -18,15 +18,15 @@ Compétences Business Analist
 
 ---
 Compétences Data sacientist
-•	Programmation : Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R, SQL.
-•	Machine Learning : modèles supervisés (régression, classification) et non supervisés (clustering, PCA).
-•	Big Data : Spark, Hadoop, bases NoSQL (MongoDB, Cassandra), Power BI, Microsoft Fabric, Azure (OneLake, Data Lake)  
-•	Manipulation des données : nettoyage, préparation, transformation (ETL, pipelines).
-•	Visualisation : matplotlib, seaborn, Plotly, Power BI.
-•	Statistiques avancées : probabilités, inférence, tests d’hypothèses, régressions.
-•	Deep Learning (optionnel) : TensorFlow, PyTorch, NLP, Computer Vision.
-•	MLOps & déploiement : Docker, GitHub, API, CI/CD pour mettre les modèles en production.
-•	Veille technologique : suivre l’évolution rapide des librairies et frameworks IA.
+-Programmation : Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R, SQL;
+-Machine Learning : modèles supervisés (régression, classification) et non supervisés (clustering, PCA);
+-Big Data : Spark, Hadoop, bases NoSQL (MongoDB, Cassandra), Power BI, Microsoft Fabric, Azure (OneLake, Data Lake);
+-Manipulation des données : nettoyage, préparation, transformation (ETL, pipelines);
+-Visualisation : matplotlib, seaborn, Plotly, Power BI;
+-Statistiques avancées : probabilités, inférence, tests d’hypothèses, régressions;
+-Deep Learning (optionnel) : TensorFlow, PyTorch, NLP, Computer Vision;
+-MLOps & déploiement : Docker, GitHub, API, CI/CD pour mettre les modèles en production;
+-Veille technologique : suivre l’évolution rapide des librairies et frameworks IA.
 
 ---
 
