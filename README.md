@@ -55,8 +55,8 @@ En cours
 Me contacter
 -[LinkedIn](https://www.linkedin.com/in/flaubert-antoine-donfack-1917a232)  
 -Email : afdonfack@gmail.com  
-- 📞 Tél : +237 691 16 16 31  
-- Localisation : Yaoundé, Cameroun  
+-Tél : +237 691 16 16 31  
+-Localisation : Yaoundé, Cameroun  
 
 ---
 
