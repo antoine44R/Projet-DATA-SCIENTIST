@@ -6,7 +6,7 @@ Mon objectif : transformer les données en leviers stratégiques pour les entrep
 
 ---
 
-## 🛠️ Stack & Compétences
+Stack & Compétences
 - **Langages** : Python (pandas, scikit-learn, matplotlib), R, SQL  
 - **BI & Data** : Power BI, Microsoft Fabric, Azure (OneLake, Data Lake)  
 - **Machine Learning** : classification, régression, segmentation client, prédiction  
@@ -14,34 +14,34 @@ Mon objectif : transformer les données en leviers stratégiques pour les entrep
 
 ---
 
-## 🚀 Projets
+Projets
 
-### 📌 Business Intelligence & Data
+Business Intelligence & Data
 - [**Tableau de bord stratégique – MAETUR**](#) : conception et pilotage des projets & finances.  
 - [**Entrepôt de données – Express Union**](#) : optimisation de l’analyse des flux de transferts d’argent.  
 
-### 📌 Machine Learning
+Machine Learning
 - [**Segmentation client – Express Union**](#) : modèle basé sur les données transactionnelles pour optimiser les stratégies marketing.  
 - [**Buzz in Social Media**](#) : prédiction de la viralité de posts à partir du dataset UCI.  
 
-### 📌 Analyse économique
+Analyse économique
 - [**Chômage en Afrique subsaharienne**](#) : étude avec R sur l’évolution du chômage, PIB, inflation et inégalités de genre.  
 
 ---
 
-## 📈 En cours
-- 📚 Développement d’un **pipeline BI complet** avec Microsoft Fabric.  
-- 📊 Expérimentations de modèles de **Machine Learning avancés** (Random Forest, Gradient Boosting).  
-- 🔎 Exploration de l’impact de la **veille technologique** dans les projets data.  
+En cours
+-Développement d’un **pipeline BI complet** avec Microsoft Fabric.  
+- Expérimentations de modèles de **Machine Learning avancés** (Random Forest, Gradient Boosting).  
+- Exploration de l’impact de la **veille technologique** dans les projets data.  
 
 ---
 
-## 📫 Me contacter
-- 💼 [LinkedIn](#)  
-- 📧 Email : *[ajoute ton email]*  
+Me contacter
+- 💼 [LinkedIn](LinkedIn|Flaubert Antoine Donfack)  
+- 📧 Email : afdonfack@gmail.com  
 - 🌍 Localisation : Cameroun  
 
 ---
 
-⭐️ N’hésite pas à explorer mes dépôts, à ouvrir des issues ou à contribuer !
+N’hésite pas à explorer mes dépôts, à ouvrir des issues ou à contribuer !
 
