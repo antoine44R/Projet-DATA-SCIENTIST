@@ -37,9 +37,9 @@ En cours
 ---
 
 Me contacter
-- 💼 [LinkedIn](LinkedIn|Flaubert Antoine Donfack)  
-- 📧 Email : afdonfack@gmail.com  
-- 🌍 Localisation : Cameroun  
+-[LinkedIn] https://www.linkedin.com/in/flaubert-antoine-donfack-1917a232/?originalSubdomain=cm  
+-Email : afdonfack@gmail.com  
+-Localisation : Cameroun  
 
 ---
 
