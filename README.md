@@ -6,16 +6,15 @@ Mon objectif : transformer les données en leviers stratégiques pour les entrep
 
 ---
 Compétences Business Analist 
-
-•	Analyse des besoins client en rapport avec l’audit de l’existant ;
-•	Cadrage de projet (portée, objectifs, cas d’utilisation, échéanciers réalistes et indicateurs de succès) ;
-•	Rédaction des expressions des besoins, cahier des charges avec analyse des exigences ;
-•	Cartographie, analyse, amélioration et optimisation des processus ;
-•	Modélisation et prototypage des solutions ;
-•	Planification, pilotage, communication, coordination des activités et suivi l’équipe projet ;
-•	Planification, conception, implémentation, exécution, analyse, suivi, contrôle et clôture de test ;
-•	Rédaction des supports (fonctionnels, techniques) et formation des utilisateurs ;
-•	Conception de la stratégie de gestion du changement (déploiement, communication, documentation).
+-Analyse des besoins client en rapport avec l’audit de l’existant ;
+-Cadrage de projet (portée, objectifs, cas d’utilisation, échéanciers réalistes et indicateurs de succès) ;
+-Rédaction des expressions des besoins, cahier des charges avec analyse des exigences ;
+-Cartographie, analyse, amélioration et optimisation des processus ;
+-Modélisation et prototypage des solutions ;
+-Planification, pilotage, communication, coordination des activités et suivi l’équipe projet ;
+-Planification, conception, implémentation, exécution, analyse, suivi, contrôle et clôture de test ;
+-Rédaction des supports (fonctionnels, techniques) et formation des utilisateurs ;
+-Conception de la stratégie de gestion du changement (déploiement, communication, documentation).
 
 ---
 Compétences Data sacientist
