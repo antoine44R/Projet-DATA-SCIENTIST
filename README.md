@@ -17,8 +17,7 @@ Stack & Compétences
 Projets
 
 Business Intelligence & Data
-- [**Tableau de bord stratégique – MAETUR**](#) : conception et pilotage des projets & finances.  
-- [**Entrepôt de données – Express Union**](#) : optimisation de l’analyse des flux de transferts d’argent.  
+- [**Tableau de bord stratégique – MAETUR**](#) : Conception et mise en place d’une base de données unifiée pour renforcer le pilotage stratégique, opérationnel des projets à la MAETUR et soutenir la prise de décision à travers un tableau de bord interactifs.  
 
 Machine Learning
 - [**Segmentation client – Express Union**](#) : modèle basé sur les données transactionnelles pour optimiser les stratégies marketing.  
