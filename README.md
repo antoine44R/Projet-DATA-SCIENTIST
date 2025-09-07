@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Donfack Antoine Flaubert  
+Bonjour, je suis Donfack Antoine Flaubert  
 
 Étudiant en **Master professionnel** spécialisé en **Data Science, Business Intelligence et Machine Learning**.  
 Passionné par l’**analyse de données**, la **visualisation décisionnelle** et l’**IA appliquée aux métiers**.  
