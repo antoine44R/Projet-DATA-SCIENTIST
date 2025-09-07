@@ -5,12 +5,29 @@ Passionné par l’**analyse de données**, la **visualisation décisionnelle** 
 Mon objectif : transformer les données en leviers stratégiques pour les entreprises.  
 
 ---
+Compétences Business Analist 
 
-Stack & Compétences
-- **Langages** : Python (pandas, scikit-learn, matplotlib), R, SQL  
-- **BI & Data** : Power BI, Microsoft Fabric, Azure (OneLake, Data Lake)  
-- **Machine Learning** : classification, régression, segmentation client, prédiction  
-- **Méthodologies** : EDA, data cleaning, data visualization, veille technologique  
+•	Analyse des besoins client en rapport avec l’audit de l’existant ;
+•	Cadrage de projet (portée, objectifs, cas d’utilisation, échéanciers réalistes et indicateurs de succès) ;
+•	Rédaction des expressions des besoins, cahier des charges avec analyse des exigences ;
+•	Cartographie, analyse, amélioration et optimisation des processus ;
+•	Modélisation et prototypage des solutions ;
+•	Planification, pilotage, communication, coordination des activités et suivi l’équipe projet ;
+•	Planification, conception, implémentation, exécution, analyse, suivi, contrôle et clôture de test ;
+•	Rédaction des supports (fonctionnels, techniques) et formation des utilisateurs ;
+•	Conception de la stratégie de gestion du changement (déploiement, communication, documentation).
+
+---
+Compétences Data sacientist
+•	Programmation : Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R, SQL.
+•	Machine Learning : modèles supervisés (régression, classification) et non supervisés (clustering, PCA).
+•	Big Data : Spark, Hadoop, bases NoSQL (MongoDB, Cassandra), Power BI, Microsoft Fabric, Azure (OneLake, Data Lake)  
+•	Manipulation des données : nettoyage, préparation, transformation (ETL, pipelines).
+•	Visualisation : matplotlib, seaborn, Plotly, Power BI.
+•	Statistiques avancées : probabilités, inférence, tests d’hypothèses, régressions.
+•	Deep Learning (optionnel) : TensorFlow, PyTorch, NLP, Computer Vision.
+•	MLOps & déploiement : Docker, GitHub, API, CI/CD pour mettre les modèles en production.
+•	Veille technologique : suivre l’évolution rapide des librairies et frameworks IA.
 
 ---
 
@@ -38,7 +55,8 @@ En cours
 Me contacter
 -[LinkedIn] https://www.linkedin.com/in/flaubert-antoine-donfack-1917a232/?originalSubdomain=cm  
 -Email : afdonfack@gmail.com  
--Localisation : Cameroun  
+- Tél: +237 691 16 16 31
+-Localisation :yaoundé-Cameroun  
 
 ---
 
