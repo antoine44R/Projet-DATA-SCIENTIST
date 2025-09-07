@@ -21,7 +21,7 @@ Compétences Business Analyst
 Compétences Data Scientist
 - **Programmation** : Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R, SQL  
 - **Machine Learning** : modèles supervisés (régression, classification) et non supervisés (clustering, PCA)  
-- **Big Data & Cloud** : Spark, Hadoop, bases NoSQL (MongoDB, Cassandra), Power BI, Microsoft Fabric, Azure (OneLake, Data Lake)  
+- **Big Data & Cloud** : Spark, Hadoop, bases NoSQL (MongoDB, Cassandra), Microsoft Fabric, Azure (OneLake, Data Lake)  
 - **Manipulation des données** : nettoyage, préparation, transformation (ETL, pipelines)  
 - **Visualisation** : matplotlib, seaborn, Plotly, Power BI  
 - **Statistiques avancées** : probabilités, inférence, tests d’hypothèses, régressions  
